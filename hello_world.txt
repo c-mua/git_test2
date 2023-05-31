@@ -1,0 +1,4 @@
+Hello World.
+New to Odin Project.
+Pretty cool and neat stuff.
+1 + 1 = 2.
